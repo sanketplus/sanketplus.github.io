@@ -553,7 +553,7 @@ table tr td :last-child {
 #particles-js{
   width: 100%;
   height: 100%;
-  background-color: #000000;
+  background-color: #ffffff;
   background-image: url('');
   background-size: cover;
   background-position: 50% 50%;
