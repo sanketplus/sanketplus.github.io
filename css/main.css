@@ -558,4 +558,6 @@ table tr td :last-child {
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
+  text-align: center;
+  color: white;
 }
